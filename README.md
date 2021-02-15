@@ -1,5 +1,5 @@
 ### Excutive Summary
-
+In this section of It1025 you will learn more about Python Idle and the 2 programs with it. You will also learn the differnt code exaples. You will also learn about graphics and how to make a graphic.
 
 ### Python IDLE
 Shell is where you wirite shell scripting. Shell editor lets you type in python instructions one at a time and gives results insantly. You can type ezpressions which is consist of values such as 2. Then there are operators such as + or - which can evaluate the numbers into one single value. Shell editior can help solve simple math problems. you can store values in variables with an assignment statement. an assignment statement consists of a variable name and an equal sign and the value to be stored. File editor lets you write complete programs and lets you run it together at once. Both shell and file editor have the same page expect the interactive shell has a triple angle bracket prompt (>>>). Before running the code on file editor you need to save it into a file using .py extension.
@@ -13,3 +13,8 @@ raster is the defintion for small images when you enlarge them the quailty gets 
 The reason it matters to delevepors which compression they should use is. A lossless image preserves the original data for the image. A lossy compression is where you remove some of the data so the file size can be smaller. So if the developer doesn't mind having a bigger size file they should go with a lossless compression.
 #### File Formats 
 GIF,PNG and JPG can all have 256 distinct RGB colors. Gif can support 8 bits of pixel. JPG uses lossy compression to make the file any size. JPG allows the designer to fine-tune the amount of compression used in an image. PNG was created to replace GIF image format. PNG files support palette-based color either 24-bit RGB or 32-bit RGBA.
+#### File Properties 
+I used 5 layers to make this design which include ellipse,path and text. I used to two ellipse in my image and used text in the middle of my ellipse. The file size is 293.7KB. When i open the file it opens into a google tab. The more appropriate way for it to open is in files beacuse you can't do anything to it if it opens into a google tab.
+
+### Conclusion 
+I learned about Python and how to make a program and run also learned bout the different codes that you would need to know. Also have learned the differtn types of imgaes and the file type and also how to make a graphic.
